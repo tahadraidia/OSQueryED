@@ -1,6 +1,8 @@
 # OSQueryED
 OSquery Enumeration and Discovery (OSqueryED) is a PoC that demonstrate how to leverage Osquery interactive shell named pipe implementation to enumerate windows machines. 
 
+Read more: https://www.darkwaves.io/insights/think-offensive-leverage-osquery-for-discovery-and-enumeration
+
 # Build Instructions
 
 ```sh
